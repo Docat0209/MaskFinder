@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">口罩一點通</string>
+    <string name="adult_show">僅顯示成人口罩</string>
+    <string name="child_show">僅顯示兒童口罩</string>
+</resources>
